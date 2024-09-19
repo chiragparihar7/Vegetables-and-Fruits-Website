@@ -13,10 +13,11 @@
 
 @media (max-width: 992px) {
   /* Genral CSS */
-  .about .banner-section,
-  .product .banner-section,
-  .gallery .banner-section,
-  .contact .banner-section {
+  .about .banner_section,
+  .product .banner_section,
+  .gallery .banner_section,
+  .contact .banner_section,
+  .distributors .banner_section{
     padding-top: 12.5rem;
     padding-bottom: 3rem;
   }
