@@ -212,7 +212,7 @@ section{
 }
 
 .header .navbar{
-    background: url(/assets/header-bg.png);
+    background: url("/assets/header-bg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -275,7 +275,7 @@ section{
 
 /* Banner Section */
 .banner-section{
-    background: url(/assets/banner-slide/Banner-1.jpg);
+    background: url("/assets/banner-slide/Banner-1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
