@@ -193,7 +193,7 @@ section{
 .product .banner_section,
 .gallery .banner_section,
 .contact .banner_section{
-    background: url(/assets/banner-slide/top-banner.jpg);
+    background: url(../assets/banner-slide/top-banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -212,7 +212,7 @@ section{
 }
 
 .header .navbar{
-    background: url("/assets/header-bg.png");
+    background: url(../assets/header-bg.png );
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -275,7 +275,7 @@ section{
 
 /* Banner Section */
 .banner-section{
-    background: url("/assets/banner-slide/Banner-1.jpg");
+    background: url(../assets/banner-slide/Banner-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -359,7 +359,7 @@ section{
 
 /* About Section */
 .about-section{
-    background: url(/assets/about/about-banner.jpg);
+    background: url(../assets/about/about-banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -433,7 +433,7 @@ section{
 }
 
 .testimonial-section .card{
-    background: url(/assets/testimonial/testimonial-bg.png);
+    background: url(../assets/testimonial/testimonial-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -462,7 +462,7 @@ section{
 
 /* Footer Section */
 .footer-section{
-    background: url(/assets/footer-bg/footer_bg.png);
+    background: url(../assets/footer-bg/footer_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
